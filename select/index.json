@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "One by One",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-04T13:19:41.783004Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One By One",
+      "artist": "Diplo feat. Elderbrook & andhim",
+      "has_synced": true,
+      "path": "select/01_One_By_One_Diplo_feat._Elderbrook_&_andhim.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One By One (feat. Elderbrook & Andhim)",
+      "artist": "Diplo",
+      "has_synced": true,
+      "path": "select/02_One_By_One_(feat._Elderbrook_&_Andhim)_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One by One",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/03_One_by_One_Enya.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One By One",
+      "artist": "Enya",
+      "has_synced": false,
+      "path": "select/04_One_By_One_Enya.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One By One",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/05_One_By_One_Enya.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One by One",
+      "artist": "Enya",
+      "has_synced": false,
+      "path": "select/06_One_by_One_Enya.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One by One",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/07_One_by_One_Enya.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One by One",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/08_One_by_One_Enya.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One by One",
+      "artist": "Chumbawamba",
+      "has_synced": true,
+      "path": "select/09_One_by_One_Chumbawamba.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One By One",
+      "artist": "The Amazons",
+      "has_synced": true,
+      "path": "select/10_One_By_One_The_Amazons.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One By One",
+      "artist": "Tha Dogg Pound",
+      "has_synced": false,
+      "path": "select/11_One_By_One_Tha_Dogg_Pound.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One by One",
+      "artist": "The Blue Stones",
+      "has_synced": true,
+      "path": "select/12_One_by_One_The_Blue_Stones.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One by One",
+      "artist": "John Norum",
+      "has_synced": true,
+      "path": "select/13_One_by_One_John_Norum.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "One By One",
+      "artist": "ICEHOUSE",
+      "has_synced": false,
+      "path": "select/14_One_By_One_ICEHOUSE.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "One By One",
+      "artist": "Sirenia",
+      "has_synced": true,
+      "path": "select/15_One_By_One_Sirenia.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "One by One",
+      "artist": "Metalium",
+      "has_synced": false,
+      "path": "select/16_One_by_One_Metalium.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "One By One",
+      "artist": "Simple Plan",
+      "has_synced": false,
+      "path": "select/17_One_By_One_Simple_Plan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One by One",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_One_by_One_ONE_OK_ROCK.txt"
+    }
+  ]
+}
